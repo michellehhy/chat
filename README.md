@@ -1,4 +1,4 @@
-Chat Web App
+<h1>Chat Web App</h1>
 
 After signing in with your google account, you can chat with difference users! 
 
